@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @democvidev
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me ? 
 
