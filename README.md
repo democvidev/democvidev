@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me 
-[<img src="https://static.cdn.wisestamp.com/wp-content/uploads/2020/06/connect-with-me-linkedin-button.png" width="25"/>](https://www.linkedin.com/in/ciobanu-vladislav-88025231/)
+[<img src="https://static.cdn.wisestamp.com/wp-content/uploads/2020/06/connect-with-me-linkedin-button.png" width="50"/>](https://www.linkedin.com/in/ciobanu-vladislav-88025231/)
 
 
 <!---
